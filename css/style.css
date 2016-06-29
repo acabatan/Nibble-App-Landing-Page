@@ -1,0 +1,183 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url(../images/heroimage.png);
+  background-repeat: no-repeat;
+  height: 673px;
+}
+
+p {
+  text-align: left;
+  color: #3E155C;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 50px;
+}
+
+
+
+h2 {
+text-align: justify;
+color: #3E155C;
+font-size: 28px;
+font-family: 'Lantinghei', sans-serif;
+}
+
+h3 {
+text-align: justify r;
+color: #8B837C;
+font-size: 24px;
+font-family: 'Lantinghei', sans-serif;
+}
+
+h4 {
+text-align: center;
+padding-left: 300px;
+padding-right: 300px;
+color: #3E155C;
+font-size: 24px;
+font-weight: normal;
+font-style: normal;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.nav {
+  padding-top: 25px;
+  padding-left: 50px;
+  margin: none;
+}
+.logo {
+  float: left;
+  width: 20%;
+  margin: 0;
+  padding-top: 10px;
+}
+/*.menubar {
+  float:left;
+  width: 80%;
+  text-align: right;
+}*/
+
+.nav ul,li {
+  list-style-type: 0;
+  float: right;
+  padding-top: none;
+  padding-right: 50px;
+  color: #F4F4F4;
+  font-family: 'Lantinghei', sans-serif;
+  font-size: 18px;
+  display: inline;
+}
+
+/*.nav {
+  display: inline-block;
+  color: #F4F4F4;
+  font-family: 'Lantinghei', sans-serif;
+  font-size: 18px;
+}*/
+
+.hero {
+  text-align: center;
+  color: #F4F4F4;
+  padding-top: 160px;
+}
+
+.appstore {
+  margin: 0px 10px;
+}
+/*.apple {
+  padding-top: 50px;
+}
+
+.google {
+  padding-top: 50px;
+}*/
+
+.blurb {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.feature1 {
+  background-color: #F4F4F4;
+  display: flex;
+}
+
+.logoregrouped {
+  float: left;
+  padding: 100px 100px 100px 200px;
+}
+
+.onboarding {
+  float: right;
+  padding: 100px 200px 100px 100px;
+}
+
+.feature2 {
+  background-color: white;
+  display: flex;
+}
+
+.learning {
+  float: left;
+  padding: 100px 100px 100px 200px;
+}
+
+.updatinginfogrouped {
+  float: right;
+  padding: 100px 200px 100px 100px;
+}
+
+.feature3 {
+  background-color: #F4F4F4;
+  display: flex;
+}
+
+.mainpageiphonegrouped {
+  float: left;
+  padding: 100px 100px 100px 200px;
+}
+
+.cards {
+  float: right;
+  padding: 100px 200px 100px 100px;
+}
+
+.downloadnow {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 75px;
+}
+
+.footer {
+  background-color: white;
+  display: flex;
+  border-top: 1px solid #8B837C;
+  /*padding-top: 50px;
+  margin-top: 50px;*/
+}
+.123{
+  /*padding: 20px;*/
+  display: flex;
+  justify-content: space-between;
+}
+.connect {
+  float: left;
+  padding: 75px 50px 75px 100px;
+  justify-content: space-between;
+}
+
+.address {
+  float: right;
+  margin-left: 700px;
+  margin-top: 75px;
+  /*padding: 75px 0 75px 50px;
+  align-items: flex-end;*/
+}
